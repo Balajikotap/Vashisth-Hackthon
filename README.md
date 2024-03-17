@@ -18,6 +18,11 @@ Weather App:
      Rahul Rana was one person who entered the city name Madurai so he got the respective data by collecting of the previous data we may give suggestion if the   
      temperature was cloudy we can give suggestions like Better to carry the Umberlla, Raincoat
 
+     ![weather_output_images](https://github.com/Balajikotap/Vashisth-Hackthon/assets/162782565/f3675dce-1d89-4aa3-a5e5-3a63235c9ce2)
+
+
+     
+
 WIKIPIDIEA A SMALL SEARCH ENGINE
 
  DESCRIPTION:
@@ -31,6 +36,8 @@ WIKIPIDIEA A SMALL SEARCH ENGINE
 
   THE POSSIBLE DRAWBACK OF OUR POJECT MAY BE:
      It will fetch the data/information only from wikipages.
+
+![wikipedia_output_image](https://github.com/Balajikotap/Vashisth-Hackthon/assets/162782565/72a832ac-44d9-484e-a9ef-555b425e2a9e)
 
  
 
